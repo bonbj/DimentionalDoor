@@ -1,0 +1,7 @@
+.classpath
+.project
+.settings/
+target/
+bin/
+WebContent/resources/img/*
+!WebContent/resources/img/userdafault.png
